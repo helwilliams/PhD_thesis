@@ -8,3 +8,12 @@ License: CC-BY 4.0
 Contact: Helena Williams (helena-williams@hotmail.co.uk)
 
 Please cite using the following BibTex entry:
+
+```
+@phdthesis{helenawilliams2022,
+  title={Automated Analysis of Ultrasound Images for the Assessment of Pelvic Floor Dysfunction},
+  author={Williams, Helena},
+  year={2022},
+  school={KU Leuven}
+}
+```
